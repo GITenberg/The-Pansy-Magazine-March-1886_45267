@@ -1,0 +1,36 @@
+_repo: The-Pansy-Magazine-March-1886_45267
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45267-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Pansy
+    aliases:
+    - Alden, Isabella Macdonald
+    - Alden, Mrs. G. R. (Isabella)
+    birthdate: 1841
+    deathdate: 1930
+    gutenberg_agent_id: '4482'
+    url: http://www.gutenberg.org/2009/agents/4482
+    wikipedia: http://en.wikipedia.org/wiki/Isabella_Macdonald_Alden
+description: ''
+gutenberg_issued: '2014-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- 19th century -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'Sunday schools -- United States -- Periodicals'
+title: The Pansy Magazine, March 1886
+url: http://www.gutenberg.org/ebooks/45267
